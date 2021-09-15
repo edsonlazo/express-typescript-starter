@@ -1,0 +1,21 @@
+#vs code
+/.vscode
+
+# dependencies
+/node_modules
+
+# ignore logs
+logs
+*.log
+
+# Ignore built files
+dist
+
+# ignore test converage
+coverage
+
+# Environment variables
+*.env
+*.env.*
+
+**/node_modules
